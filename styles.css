@@ -1,21 +1,32 @@
+body{
+   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:20px;
+    margin-right: 20px;
+        background-color: rgb(172, 169, 169);
 
+}
 
 
 h1{
     text-align: center;
-    color: rgb(14, 14, 148);
     font-style: italic;
+}
     
-}
-h2{
-    font-size: 120%;
-}
+
 
 .P1{
-    color: red;
+    color: black;
+    
 }
 
 .P2{
+
     text-align: center;
-    font-style: oblique;
+    font-style: inherit;
+}
+
+video{
+    position: absolute;left: 300px;top:400px;
 }
