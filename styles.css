@@ -3,6 +3,19 @@
 
 h1{
     text-align: center;
-    color: blue;
+    color: rgb(14, 14, 148);
+    font-style: italic;
     
+}
+h2{
+    font-size: 120%;
+}
+
+.P1{
+    color: red;
+}
+
+.P2{
+    text-align: center;
+    font-style: oblique;
 }
