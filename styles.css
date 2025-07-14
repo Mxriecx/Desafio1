@@ -17,19 +17,31 @@ header{
     text-align: center;
     font-style: italic;
     font-size: 30px;
+    position: absolute;top: 45px;left: 350px;
 }
 #bruja{
     width: 80px;
+    position: relative;top: 10px;
 }
     
-h1{
-    text-align: center;
-  
+.menu{
+    font-size: 18px;color:darkmagenta;border: 2px solid darkmagenta;background-color: white;
+    padding: 2px;
+    margin: 5px;
+    position: relative;top: 15px;
+
 }
+
+.F1{
+    position:absolute;top: 5px;left: 19px;
+
+}
+
 
 
 .P1{
     color: black;font-size: 18px;
+    position: relative;top: 17px;left: 1px;
     
 }
 
@@ -56,4 +68,8 @@ ul{
 .p4{
     font: 18px;
 
+}
+
+.Link{
+    color: pink;
 }
