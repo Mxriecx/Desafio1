@@ -17,7 +17,7 @@ header{
     text-align: center;
     font-style: italic;
     font-size: 30px;
-    position: absolute;top: 45px;left: 220px;
+    position: absolute;top: 45px;left: 400px;
 }
 #bruja{
     width: 80px;
@@ -25,10 +25,10 @@ header{
 }
     
 .menu{
-    font-size: 18px;color:darkmagenta;border: 2px solid darkmagenta;background-color: white;
+    font-size: 15px;color:darkmagenta;border: 2px solid darkmagenta;background-color: white;
     padding: 2px;
     margin: 5px;
-    position: relative;top: 15px;
+    position: relative;top: 15px;left: -5px;
 
 }
 
@@ -40,14 +40,14 @@ header{
 
 
 .P1{
-    color: black;font-size: 18px;
+    color: black;font-size: 20px;
     position: relative;top: 17px;left: 1px;
     
 }
 
 .P2{
 
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     font-style: inherit;
     color: black;
@@ -56,20 +56,25 @@ header{
 /* No me deja centrar el video sin afectar las otras lineas de codigo */
 
 .P3{
-    font-size: 18px;
+    font-size: 20px;
     color: black;
     text-align: center;
 }
 
 ul{
-    font-size: 18px;
+    font-size: 20px;
+    text-align: left;
 }
 
 .p4{
-    font: 18px;
+    font: 20px;
 
 }
 
 .Link{
     color: pink;
+}
+
+footer{
+    font-size: 20px;
 }
